@@ -1,7 +1,5 @@
 ## RegExp Search
 
-***
-
 ### Description
 The exercise is to create and test regular expressions that:
 * searches hashtags in the text
